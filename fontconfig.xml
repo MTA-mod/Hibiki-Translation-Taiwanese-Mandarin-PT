@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fontconfig>
+    <ASIA>
+        <lib> gui/flash/fonts_ASIA.swf </lib>
+        <alias>
+            <embedded> $ZurichCondensed </embedded>
+            <runtime> Source Han Sans JP Medium WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $ZurichCondensedBold </embedded>
+            <runtime> Source Han Sans JP Bold WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFont </embedded>
+            <runtime> Source Han Sans JP Medium WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFontBold </embedded>
+            <runtime> Source Han Sans JP Bold WH </runtime>
+        </alias>
+    </ASIA>
+    <CN>
+        <lib> gui/flash/fonts_CN.swf </lib>
+        <alias>
+            <embedded> $ZurichCondensed </embedded>
+            <runtime> Source Han Sans CN Medium WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $ZurichCondensedBold </embedded>
+            <runtime> Source Han Sans CN Bold WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFont </embedded>
+            <runtime> Source Han Sans CN Medium WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFontBold </embedded>
+            <runtime> Source Han Sans CN Bold WH </runtime>
+        </alias>
+    </CN>
+    <EU>
+        <lib> gui/flash/fonts_EU.swf </lib>
+        <alias>
+            <embedded> $ZurichCondensed </embedded>
+            <runtime> WarHeliosCondC </runtime>
+        </alias>
+        <alias>
+            <embedded> $ZurichCondensedBold </embedded>
+            <runtime> WarHeliosCondCBold </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFont </embedded>
+            <runtime> WarHeliosCondC </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFontBold </embedded>
+            <runtime> WarHeliosCondCBold </runtime>
+        </alias>
+    </EU>
+    <Hibiki>
+        <lib> gui/flash/fonts_Hibiki.swf </lib>
+        <alias>
+            <embedded> $ZurichCondensed </embedded>
+            <runtime> Source Han Sans CN Medium WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $ZurichCondensedBold </embedded>
+            <runtime> Source Han Sans CN Bold WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFont </embedded>
+            <runtime> Source Han Sans CN Medium WH </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFontBold </embedded>
+            <runtime> Source Han Sans CN Bold WH </runtime>
+        </alias>
+    </Hibiki>	
+    <KO>
+        <lib> gui/flash/fonts_KO.swf </lib>
+        <alias>
+            <embedded> $ZurichCondensed </embedded>
+            <runtime> WarHeliosCond_KO </runtime>
+        </alias>
+        <alias>
+            <embedded> $ZurichCondensedBold </embedded>
+            <runtime> WarHeliosCondBold_KO </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFont </embedded>
+            <runtime> WarHeliosCond_KO </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFontBold </embedded>
+            <runtime> WarHeliosCondBold_KO </runtime>
+        </alias>
+    </KO>
+    <RU>
+        <lib> gui/flash/fonts_RU.swf </lib>
+        <alias>
+            <embedded> $ZurichCondensed </embedded>
+            <runtime> WarHeliosCondC </runtime>
+        </alias>
+        <alias>
+            <embedded> $ZurichCondensedBold </embedded>
+            <runtime> WarHeliosCondCBold </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFont </embedded>
+            <runtime> WarHeliosCondC </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFontBold </embedded>
+            <runtime> WarHeliosCondCBold </runtime>
+        </alias>
+    </RU>
+    <TH>
+        <lib> gui/flash/fonts_TH.swf </lib>
+        <alias>
+            <embedded> $ZurichCondensed </embedded>
+            <runtime> WarHeliosCondC </runtime>
+        </alias>
+        <alias>
+            <embedded> $ZurichCondensedBold </embedded>
+            <runtime> WarHeliosCondCBold </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFont </embedded>
+            <runtime> WarHeliosCondC </runtime>
+        </alias>
+        <alias>
+            <embedded> $WWSDefaultFontBold </embedded>
+            <runtime> WarHeliosCondCBold </runtime>
+        </alias>
+    </TH>
+</fontconfig>

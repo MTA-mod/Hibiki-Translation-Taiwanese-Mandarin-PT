@@ -1,0 +1,9 @@
+<locale_config>
+    <locale_id>zh_tw</locale_id>
+    <text_path>../res/texts</text_path>
+    <text_domain>global</text_domain>
+    <fonts>Hibiki</fonts>
+    <lang_mapping>
+        <lang acceptLang="zh-Tw,en,ru,de,ja,zh-Cn,pt-br,uk,pl,fr,es,cs,tr,ko" fonts="Hibiki" full="Hibiki" short="zh_tw"/>
+    </lang_mapping>
+</locale_config>
